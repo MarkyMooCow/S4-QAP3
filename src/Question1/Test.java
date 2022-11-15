@@ -8,7 +8,7 @@ public class Test {
         Student mio = new Student("Mio Agnus", 19, "F", "HS95129", 3.5);
         System.out.println(mio);
 
-        Teacher msHogg = new Teacher("Lianna Hogg", 34, "F", "English", 50000);
+        Teacher msHogg = new Teacher("Lianne Hogg", 34, "F", "English", 50000);
         System.out.println(msHogg);
 
         CollegeStudent haru = new CollegeStudent("Haru Okumura", 18, "F", "UCB123", 4.0, "Herbology", 1);
