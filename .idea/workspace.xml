@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c85fab1f-d334-4e05-86e2-951cf0d0a556" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QAP3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question1/CollegeStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question1/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question2/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question2/Test.java" afterDir="false" />
+    <list default="true" id="c85fab1f-d334-4e05-86e2-951cf0d0a556" name="Changes" comment="Need comments...">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question1/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +44,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question2.Test">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Question2.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Question2.Test" />
       <module name="QAP3" />
@@ -88,8 +73,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question2.Test" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Question2.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -104,8 +89,16 @@
       <workItem from="1668220265664" duration="6465000" />
       <workItem from="1668314748581" duration="1355000" />
       <workItem from="1668401000219" duration="1758000" />
-      <workItem from="1668463006942" duration="10154000" />
+      <workItem from="1668463006942" duration="10863000" />
     </task>
+    <task id="LOCAL-00001" summary="Need comments...">
+      <created>1668480011568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668480011568</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Need comments..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Need comments..." />
   </component>
 </project>

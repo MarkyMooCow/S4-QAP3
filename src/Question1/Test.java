@@ -2,16 +2,16 @@ package Question1;
 
 public class Test {
     public static void main(String[] args) {
-        Person bob = new Person("Coach Bob", 27, "M");
-        System.out.println(bob);
+        Person noah = new Person("Noah Keves", 18, "M");
+        System.out.println(noah);
 
-        Student lynne = new Student("Lynne Brooke", 16, "F", "HS95129", 3.5);
-        System.out.println(lynne);
+        Student mio = new Student("Mio Agnus", 19, "F", "HS95129", 3.5);
+        System.out.println(mio);
 
-        Teacher mrJava = new Teacher("Duke Java", 34, "M", "Computer Science", 50000);
-        System.out.println(mrJava);
+        Teacher msHogg = new Teacher("Lianna Hogg", 34, "F", "English", 50000);
+        System.out.println(msHogg);
 
-        CollegeStudent ima = new CollegeStudent("Ima Frosh", 18, "F", "UCB123", 4.0, "English", 1);
-        System.out.println(ima);
+        CollegeStudent haru = new CollegeStudent("Haru Okumura", 18, "F", "UCB123", 4.0, "Herbology", 1);
+        System.out.println(haru);
     }
 }
